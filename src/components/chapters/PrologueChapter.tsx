@@ -84,7 +84,7 @@ export const PrologueChapter: React.FC<PrologueChapterProps> = ({
         >
           <div className="relative aspect-[16/10] sm:aspect-[16/11] lg:aspect-[4/3] w-full overflow-hidden bg-[#151311] border border-[#2e2922] shadow-2xl group">
             <img
-              src="/src/assets/images/boutique_hero_campaign_1792767540901.jpg"
+              src="/assets/images/boutique_hero_campaign_1792767540901.jpg"
               alt="Maison Valois Fall/Winter Campaign Model in Sculptural Coat"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover object-top transition-transform duration-1000 group-hover:scale-105"

@@ -44,7 +44,7 @@ export const AtelierChapter: React.FC = () => {
         >
           <div className="relative aspect-[16/10] sm:aspect-[16/10] w-full overflow-hidden bg-[#161412] border border-[#302921] shadow-2xl">
             <img
-              src="/src/assets/images/boutique_atelier_craft_1792767542824.jpg"
+              src="/assets/images/boutique_atelier_craft_1792767542824.jpg"
               alt="Artisan tailoring at Maison Valois Paris Atelier"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover object-center"

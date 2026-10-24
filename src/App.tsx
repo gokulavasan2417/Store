@@ -419,7 +419,7 @@ export default function App() {
             }}
           >
             <img
-              src="/src/assets/images/boutique_hero_campaign_1792767540901.jpg"
+              src="/assets/images/boutique_hero_campaign_1792767540901.jpg"
               alt="Atelier Valois Haute Couture Salon"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover object-top"
@@ -1012,7 +1012,7 @@ export default function App() {
           >
             {/* Background Sunlit Parisian Master Tailor Scene */}
             <img
-              src="/src/assets/images/boutique_atelier_craft_1792767542824.jpg"
+              src="/assets/images/boutique_atelier_craft_1792767542824.jpg"
               alt="Master Tailor Hand-Stitching at Atelier Valois Paris"
               referrerPolicy="no-referrer"
               className="absolute inset-0 w-full h-full object-cover object-center transition-transform duration-700"
@@ -1039,7 +1039,7 @@ export default function App() {
             >
               <div className="w-60 sm:w-72 aspect-[3/4] rounded-sm overflow-hidden border-2 border-[#D4AF37] shadow-[0_28px_60px_rgba(0,0,0,0.85)] bg-[#141210] relative">
                 <img
-                  src="/src/assets/images/boutique_tailored_coat_1792767543121.jpg"
+                  src="/assets/images/boutique_tailored_coat_1792767543121.jpg"
                   alt="Double-Breasted Cashmere Overcoat"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover object-center"

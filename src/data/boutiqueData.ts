@@ -47,7 +47,7 @@ export const PRODUCTS: Product[] = [
       'An evening silhouette crafted in liquid heavy mulberry silk charmeuse. Hand-pleated bodice cascading into an asymmetric split with a sweeping puddle train.',
     fabric: '100% Grade 6A Organic Mulberry Silk (40mm)',
     origin: 'Draped & Finished in Master Atelier',
-    image: '/src/assets/images/boutique_lookbook_silk_1792767542468.jpg',
+    image: '/assets/images/boutique_lookbook_silk_1792767542468.jpg',
     sizes: ['UK 6 / US 2', 'UK 8 / US 4', 'UK 10 / US 6', 'UK 12 / US 8', 'UK 14 / US 10'],
     colors: [
       { name: 'Champagne Gold', hex: '#D6C29B' },
@@ -75,7 +75,7 @@ export const PRODUCTS: Product[] = [
       'An architectural statement piece tailored in double-faced virgin wool and sculpted bonded cashmere. Features an asymmetric high-funnel lapel and hand-pressed drape.',
     fabric: '85% Virgin Wool, 15% Mongolian Cashmere',
     origin: 'Handmade in Historic Workshop',
-    image: '/src/assets/images/boutique_hero_campaign_1792767540901.jpg',
+    image: '/assets/images/boutique_hero_campaign_1792767540901.jpg',
     sizes: ['UK 6 / US 2', 'UK 8 / US 4', 'UK 10 / US 6', 'UK 12 / US 8', 'UK 14 / US 10'],
     colors: [
       { name: 'Slate Grey', hex: '#586065' },
@@ -103,7 +103,7 @@ export const PRODUCTS: Product[] = [
       'Uncompromising sartorial luxury. Hand-stitched double-breasted overcoat cut from pure 650g heavy cashmere with peak lapels and genuine water-buffalo horn buttons.',
     fabric: '100% Unbleached Grade A Mongolian Cashmere',
     origin: 'Woven in Biella, Tailored in London & Paris',
-    image: '/src/assets/images/boutique_tailored_coat_1792767543121.jpg',
+    image: '/assets/images/boutique_tailored_coat_1792767543121.jpg',
     sizes: ['UK 8 / US 4', 'UK 10 / US 6', 'UK 12 / US 8', 'UK 14 / US 10', 'UK 16 / US 12'],
     colors: [
       { name: 'Natural Camel', hex: '#C59A68' },
@@ -131,7 +131,7 @@ export const PRODUCTS: Product[] = [
       'An architectural heirloom bag sculpted from full-grain French box calfskin. Fitted with hand-brushed solid brass lock hardware and saddle-stitched edges.',
     fabric: '100% Full-Grain Box Calfskin, Lambskin Nappa Lining',
     origin: 'Handcrafted in Florence & Finished in London',
-    image: '/src/assets/images/boutique_leather_bag_1792767542842.jpg',
+    image: '/assets/images/boutique_leather_bag_1792767542842.jpg',
     sizes: ['Medium (28cm)', 'Large (32cm)'],
     colors: [
       { name: 'Warm Coffee', hex: '#2C221E' },
@@ -159,7 +159,7 @@ export const PRODUCTS: Product[] = [
       'An ethereal cape featuring hand-pleated midnight black silk woven with gossamer-fine spun gold lamé threads. Dramatically drapes from an architectural collar down into a cascading sweep.',
     fabric: '70% Silk Chiffon, 30% Metallic Gold Lamé Filaments',
     origin: 'Hand-Pleated in London Atelier',
-    image: '/src/assets/images/black_gold_evening_cape_1792844539134.jpg',
+    image: '/assets/images/black_gold_evening_cape_1792844539134.jpg',
     sizes: ['UK 6 / US 2', 'UK 8 / US 4', 'UK 10 / US 6', 'UK 12 / US 8', 'UK 14 / US 10'],
     colors: [
       { name: 'Midnight Gold', hex: '#C2A34F' },
@@ -187,7 +187,7 @@ export const PRODUCTS: Product[] = [
       'A masterpiece of modern evening tailoring. Cut in deep jewel-toned emerald silk-cotton velvet with sculptural peaked lapels in lustrous black duchess satin.',
     fabric: '60% Silk Velvet, 40% Long-Staple Cotton, Duchess Satin Facings',
     origin: 'Bespoke Tailored on Savile Row & Paris',
-    image: '/src/assets/images/emerald_velvet_tuxedo_blazer_1792844556534.jpg',
+    image: '/assets/images/emerald_velvet_tuxedo_blazer_1792844556534.jpg',
     sizes: ['UK 6 / US 2', 'UK 8 / US 4', 'UK 10 / US 6', 'UK 12 / US 8', 'UK 14 / US 10'],
     colors: [
       { name: 'Emerald Jewel', hex: '#1C3A27' },
@@ -215,7 +215,7 @@ export const PRODUCTS: Product[] = [
       'A breathtaking couture creation with an internal boned corset hand-embroidered with thousands of luminous natural seed pearls, shimmering micro-crystals, and intricate spun gold celestial star constellations.',
     fabric: 'Fine Champagne Silk Tulle, Hand-Sewn Cultured Pearls & Gold Filigree',
     origin: 'Couture Hand-Embroidered in Paris & London',
-    image: '/src/assets/images/celestial_corset_gown_1792844578524.jpg',
+    image: '/assets/images/celestial_corset_gown_1792844578524.jpg',
     sizes: ['UK 6 / US 2', 'UK 8 / US 4', 'UK 10 / US 6', 'UK 12 / US 8', 'UK 14 / US 10'],
     colors: [
       { name: 'Starlight Champagne', hex: '#E6D7BD' },
@@ -243,7 +243,7 @@ export const PRODUCTS: Product[] = [
       'Avant-garde haute couture footwear crafted from hand-burnished cognac calfskin boasting an exquisite amber patina gradient. Features an organic molten-gold architectural heel.',
     fabric: '100% Hand-Burnished French Calfskin, Cast Brass Molten Heel',
     origin: 'Artisanal Cobbler Workshop, Tuscany',
-    image: '/src/assets/images/cognac_leather_sculpted_heel_boots_1792844601317.jpg',
+    image: '/assets/images/cognac_leather_sculpted_heel_boots_1792844601317.jpg',
     sizes: ['UK 4 / US 6', 'UK 5 / US 7', 'UK 6 / US 8', 'UK 7 / US 9', 'UK 8 / US 10'],
     colors: [
       { name: 'Burnished Cognac', hex: '#874E2B' },
