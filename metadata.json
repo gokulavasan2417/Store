@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Valois - Haute Couture Boutique",
+  "description": "An animated, scroll-driven luxury boutique store with seamless chapter transitions, haute couture lookbook, artisanal collection, craftsmanship atelier, and private concierge appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

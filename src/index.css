@@ -1,0 +1,119 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Cormorant Garamond', Georgia, serif;
+    --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #0c0b0a;
+    color: #f3eee8;
+    overflow-x: hidden;
+  }
+}
+
+.font-serif-luxury {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.font-sans-clean {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Custom delicate scrollbars and aesthetic styling */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0c0b0a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2b2825;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #47423c;
+}
+
+/* Subtle gold and bronze glow helpers */
+.gold-shimmer {
+  background: linear-gradient(120deg, rgba(212, 175, 55, 0.05) 0%, rgba(212, 175, 55, 0.2) 50%, rgba(212, 175, 55, 0.05) 100%);
+}
+
+/* Luxury Floating Keyframes for Mini Objects */
+@keyframes luxuryFloat1 {
+  0% {
+    transform: translateY(0px) translateX(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-18px) translateX(5px) rotate(5deg);
+  }
+  100% {
+    transform: translateY(6px) translateX(-4px) rotate(-3deg);
+  }
+}
+
+@keyframes luxuryFloat2 {
+  0% {
+    transform: translateY(0px) translateX(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-24px) translateX(-7px) rotate(-6deg);
+  }
+  100% {
+    transform: translateY(8px) translateX(3px) rotate(4deg);
+  }
+}
+
+@keyframes luxuryFloat3 {
+  0% {
+    transform: translateY(0px) translateX(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-15px) translateX(-5px) rotate(-4deg);
+  }
+  100% {
+    transform: translateY(10px) translateX(6px) rotate(5deg);
+  }
+}
+
+@keyframes luxuryFloat4 {
+  0% {
+    transform: translateY(0px) translateX(0px) rotate(0deg);
+  }
+  33% {
+    transform: translateY(-20px) translateX(8px) rotate(6deg);
+  }
+  66% {
+    transform: translateY(-8px) translateX(-8px) rotate(-4deg);
+  }
+  100% {
+    transform: translateY(0px) translateX(0px) rotate(0deg);
+  }
+}
+
+.animate-float-1 {
+  animation: luxuryFloat1 6s ease-in-out infinite alternate;
+  will-change: transform;
+}
+
+.animate-float-2 {
+  animation: luxuryFloat2 7.5s ease-in-out infinite alternate;
+  will-change: transform;
+}
+
+.animate-float-3 {
+  animation: luxuryFloat3 5.4s ease-in-out infinite alternate;
+  will-change: transform;
+}
+
+.animate-float-4 {
+  animation: luxuryFloat4 8.6s ease-in-out infinite;
+  will-change: transform;
+}
